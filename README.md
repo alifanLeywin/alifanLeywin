@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 - 💬 Ask me about **anything**
 
