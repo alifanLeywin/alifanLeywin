@@ -6,10 +6,9 @@
 <div align="center">
 
   <!-- 🔥 Animated Header 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b73a3,100:fac36b&text=Alifan%20Leywin&fontAlign=50&fontAlignY=40&fontColor=ffffff&fontSize=56&desc=Laravel%20•%20PHP%20•%20React%20•%20Next.js%20•%20Node/Express%20•%20Supabase%20•%20Sanity%20•%20TailwindCSS&descAlign=50&descAlignY=70" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b73a3,100:fac36b&text=Alifan%20Leywin&fontAlign=50&fontAlignY=40&fontColor=ffffff&fontSize=56&desc=Laravel%20•%20PHP%20•%20React%20•%20Next.js%20•%20Node/Express%20•%20Supabase%20•%20Sanity%20•%20TailwindCSS&descAlign=50&descAlignY=70" alt="header" />-->
 
-  <!-- ⌨️ Typing Intro
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=800&color=0B73A3&center=true&vCenter=true&width=900&lines=Full-stack+Engineer+%7C+DX+%26+Clean+Architecture;Laravel+APIs+%2B+Next.js+Apps+with+Tailwind;Supabase+Auth%2FDB+%7C+Sanity+Headless+CMS;Node%2FExpress+services+%7C+Edge+%26+Serverless" alt="typing" /> -->
+  <img src="https://media.tenor.com/Lu3ZB5FTDdwAAAAi/duong2.gif" alt="typing" />
 
   <!-- 🎯 Quick Links -->
   <p>
