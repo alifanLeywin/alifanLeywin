@@ -27,7 +27,7 @@ Hi i Alifan 👋 , BTW I Love Open Source
 
 ## 🧰 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,tailwind,nodejs,go,express,supabase,postgres,mysql,github" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,nextjs,tailwind,nodejs,go,express,supabase,mysql,github" />
 </p>
 
 ---
