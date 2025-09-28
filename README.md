@@ -21,7 +21,7 @@
 ---
 
 <!-- ## Tentang Saya -->
-Hi i Alifan 👋 , BTW I Love Open Source
+Hi i'm Alifan 👋 , BTW I Love Open Source
 
 ---
 
