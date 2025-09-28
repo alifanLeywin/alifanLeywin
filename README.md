@@ -32,11 +32,11 @@ Hi i'm Alifan 👋 , BTW I Love Open Source
 
 ---
 
-## 🗺️ Arsitektur (ringkas)
-- **Frontend:** React / Next.js + Tailwind  
-- **Backend:** Laravel (PHP) + Node/Express microservices  
-- **Data:** Supabase (Postgres • Auth • Storage) + Sanity Content Lake  
-- **Integrasi:** REST/GraphQL, Webhook, Queue  
+## 🗺️ Architecture (compact)
+- **Frontend:** React / Next.js + Tailwind
+- **Backend:** Laravel (PHP) + Node/Express microservices
+- **Data:** Supabase (Postgres • Auth • Storage) + Sanity Content Lake
+- **Integration:** REST/GraphQL, Webhook, Queue
 - **Deploy:** Vercel / Docker + GitHub Actions
 
 ---
