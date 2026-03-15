@@ -3,6 +3,10 @@
 A web developer based in Indonesia.  
 I build digital experiences that don't just work, but feel right — combining modern frameworks with animation and strong UX principles.
 
+<div align="center">
+  <img src="./img/img.jpg" alt="my-profile" />
+</div>
+
 ---
 
 #### What I work with
