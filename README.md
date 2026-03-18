@@ -19,15 +19,33 @@ I build digital experiences that don't just work, but feel right — combining m
 ---
 
 #### Stats
-
+<!-- GitHub Stats — Elden Ring Theme -->
 <div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=alifanLeywin&show_icons=true&theme=default&hide_border=true&rank_icon=github&bg_color=00000000&title_color=333&text_color=555&icon_color=888" alt="stats" />
-  <img height="155" src="https://github-readme-streak-stats.herokuapp.com?user=alifanLeywin&theme=default&hide_border=true&background=00000000&ring=888888&fire=333333&currStreakLabel=333333&sideLabels=555555&currStreakNum=333333&sideNums=555555&dates=999999" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alifanLeywin
+    &show_icons=true
+    &theme=dark
+    &bg_color=0f0d0b
+    &title_color=c9a84c
+    &text_color=b8b0a0
+    &icon_color=d4622a
+    &border_color=8a6d2e
+    &rank_icon=github" height="155" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com
+    ?user=alifanLeywin
+    &theme=dark
+    &background=0f0d0b
+    &ring=c9a84c
+    &fire=d4622a
+    &currStreakLabel=f0d080
+    &sideLabels=b8b0a0
+    &currStreakNum=c9a84c
+    &sideNums=b8b0a0
+    &dates=6e6358
+    &border=8a6d2e" height="155" />
 </div>
 
 ---
 
 <sub>Open for exciting opportunities — <a href="mailto:alifanmunggaran16@gmail.com">reach out</a></sub>
 <sub>My porotofolio2nd -<a href="#">upcoming<a/></sub>
-
-<h1>In March, I have to create a lot of repositories so that when my newest portfolio website is deployed, there will be more projects on the list that I am working on. :3<h1>
