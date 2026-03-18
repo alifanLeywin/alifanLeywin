@@ -19,8 +19,8 @@ combining modern frameworks with animation and strong UX principles.
 | Discipline | Relics |
 |---|---|
 | **Frontend** | React.js · Next.js · TypeScript · Tailwind CSS · Framer Motion · GSAP |
-| **Backend** | Laravel · Node.js · Express · Hono · tRPC |
-| **Data** | PostgreSQL · MySQL · Supabase · Prisma · Drizzle ORM |
+| **Backend** | Php/Laravel · Node.js/Hono · tRPC · Go/Gin |
+| **Data** | PostgreSQL · MySQL · Prisma · Drizzle ORM · Gorm ORM |
 | **Tools** | Git · Docker · Vercel · GitHub Actions |
 
 ---
