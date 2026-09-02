@@ -12,3 +12,8 @@
 ![](https://img.shields.io/badge/PORTFOLIO-UPCOMING-000000?style=for-the-badge&labelColor=000000&color=333333)
 
 </div>
+
+<div align="center">
+  <h1>SEMANGAT NGODING NYA</h1>
+  <img src="./img/BaekSongMin.jpg" alt="Baek Song Min" width="900" />
+</div>
