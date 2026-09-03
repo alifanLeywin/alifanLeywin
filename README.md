@@ -15,6 +15,6 @@
 
 <div align="center">
   <h1>SEMANGAT NGODING NYA</h1>
-  <img src="./img/BaekSongMin.jpg" alt="Baek Song Min" width="700" />
+  <img src="./img/BaekSongMin.jpg" alt="Baek Song Min" width="600" />
   <h1>SEMANGAT NGODING NYA</h1>
 </div>
