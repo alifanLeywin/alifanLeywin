@@ -4,13 +4,6 @@
   <tr>
     <td width="55%" valign="middle">
       <h1>LOL LOL LOL</h1>
-      <h3>still building weird little things</h3>
-      <p>
-        <i>more code, less noise.</i>
-      </p>
-      <p>
-        <strong>— warm hands, curious mind, late-night ideas —</strong>
-      </p>
       <div align="left">
         <a href="mailto:alifanmunggaran16@gmail.com">
           <img src="https://img.shields.io/badge/EMAIL-alifanmunggaran16%40gmail.com-000000?style=for-the-badge&labelColor=E8C84A&color=000000" alt="Email" />
