@@ -6,7 +6,7 @@
 <h1 align="center">yo, i'm <a href="#">alifanO_x</a>!</h1>
 <h3 align="center">welcome to my profile</h3>
 
-<p align="center">i'm aq frontend dev learning my way into game dev～☾</p>
+<p align="center">i'm a frontend dev learning my way into game dev～☾</p>
 
 <p align="center">
   <a href="https://www.instagram.com/alfnleywinnn_/">
