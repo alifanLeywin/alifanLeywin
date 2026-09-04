@@ -28,7 +28,7 @@
 <table>
   <tr>
     <td width="55%" align="center" valign="middle">
-      <img src="./img/Baek.jpg" alt="MyKisah" width="320" />
+      <img src="./img/Baek.jpg" alt="MyKisah" width="280" />
       <div align="center">
       </div>
     </td>
