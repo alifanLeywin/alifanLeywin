@@ -3,11 +3,15 @@
   <img src="./img/Banner.png" alt="banner photo" width="100%" />
 </div>
 
+<h1 align="center">yo, i'm <a href="#">alifanO_x</a>!</h1>
+<h3 align="center">welcome to my profile</h3>
+
+<p align="center">i'm a frontend dev learning my way into game dev～☾</p>
+
 <p align="center">
-  <i>"build things that feel alive, even if the internet forgets them."</i>
+  <strong><a href="https://www.instagram.com/alfnleywinnn_/">Instagram</a></strong> |
+  <strong><a href="https://www.linkedin.com/in/mochammad-alifan-568464355/">LinkedIn</a></strong> |
 </p>
-
-
 <table>
   <tr>
     <td width="55%" align="center" valign="middle">
@@ -27,5 +31,5 @@
   </tr>
 </table>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=&weight=600&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&height=60&lines=SEMANGAT+NGODINGNYA!!!" alt="SEMANGAT NGODINGNYA!!!" />
+  <img src="https://readme-typing-svg.demolab.com?font=&weight=600&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&height=60&lines=happy+coding!!!" alt="happy coding!!!" />
 </div>
