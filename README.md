@@ -25,7 +25,6 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=&weight=600&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&height=60&lines=SEMANGAT+NGODINGNYA!!!" alt="SEMANGAT NGODINGNYA!!!" />
-  <h3>code like it’s a lifestyle</h3>
 </div>
 
 <div align="center">
