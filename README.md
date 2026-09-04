@@ -10,9 +10,9 @@
 
 <table>
   <tr>
-    <td width="55%" valign="middle">
+    <td width="55%" align="center" valign="middle">
       <h1>LOL LOL LOL</h1>
-      <div align="left">
+      <div align="center">
         <a href="mailto:alifanmunggaran16@gmail.com">
           <img src="https://img.shields.io/badge/EMAIL-alifanmunggaran16%40gmail.com-000000?style=for-the-badge&labelColor=E8C84A&color=000000" alt="Email" />
         </a>
