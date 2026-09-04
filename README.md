@@ -1,4 +1,12 @@
 
+<div align="center">
+  <img src="./img/Banner.png" alt="banner photo" width="100%" />
+</div>
+
+<p align="center">
+  <i>"build things that feel alive, even if the internet forgets them."</i>
+</p>
+
 
 <table>
   <tr>
@@ -26,12 +34,3 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=&weight=600&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&height=60&lines=SEMANGAT+NGODINGNYA!!!" alt="SEMANGAT NGODINGNYA!!!" />
 </div>
-
-<div align="center">
-  <img src="./img/Banner.png" alt="banner photo" width="100%" />
-</div>
-
-<p align="center">
-  <i>"build things that feel alive, even if the internet forgets them."</i>
-</p>
-
