@@ -25,7 +25,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=&weight=600&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&height=60&lines=happy+coding!!!" alt="happy coding!!!" />
 </div>
-<table>
+<table align="center">
   <tr>
     <td width="55%" align="center" valign="middle">
       <img src="./img/Baek.jpg" alt="MyKisah" width="280" />
