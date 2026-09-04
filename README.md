@@ -15,6 +15,12 @@
   <a href="https://www.linkedin.com/in/mochammad-alifan-568464355/">
     <img src="https://img.shields.io/badge/LINKEDIN-Mochammad_Alifan-000000?style=for-the-badge&labelColor=0A66C2&color=000000" alt="LinkedIn" />
   </a>
+   <a href="mailto:alifanmunggaran16@gmail.com">
+          <img src="https://img.shields.io/badge/EMAIL-alifanmunggaran16%40gmail.com-000000?style=for-the-badge&labelColor=E8C84A&color=000000" alt="Email" />
+        </a>
+        <a href="#">
+          <img src="https://img.shields.io/badge/PORTFOLIO-website-000000?style=for-the-badge&labelColor=9F7AEA&color=000000" alt="Portfolio" />
+        </a>
 </p>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=&weight=600&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&height=60&lines=happy+coding!!!" alt="happy coding!!!" />
@@ -22,18 +28,12 @@
 <table>
   <tr>
     <td width="55%" align="center" valign="middle">
-      <img src="./img/bonfire.gif" alt="bonfire" width="120" />
+      <img src="./img/Baek.gif" alt="MyKisah" width="320" />
       <div align="center">
-        <a href="mailto:alifanmunggaran16@gmail.com">
-          <img src="https://img.shields.io/badge/EMAIL-alifanmunggaran16%40gmail.com-000000?style=for-the-badge&labelColor=E8C84A&color=000000" alt="Email" />
-        </a>
-        <a href="#">
-          <img src="https://img.shields.io/badge/PORTFOLIO-website-000000?style=for-the-badge&labelColor=9F7AEA&color=000000" alt="Portfolio" />
-        </a>
       </div>
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="./img/BaekSongMin.jpg" alt="profile art" width="320" />
+      <img src="./img/SongMin.jpg" alt="Pemanis supaya semangat ngoding" width="320" />
     </td>
   </tr>
 </table>
