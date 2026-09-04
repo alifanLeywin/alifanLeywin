@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="55%" valign="middle">
-      <h1>SEMANGAT NGODINGNYA!!</h1>
+      <h1>LOL LOL LOL</h1>
       <h3>still building weird little things</h3>
       <p>
         <i>more code, less noise.</i>
