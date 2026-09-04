@@ -27,13 +27,11 @@
 </div>
 <table align="center">
   <tr>
-    <td width="55%" align="center" valign="middle">
-      <img src="./img/Baek.jpg" alt="MyKisah" width="280" />
-      <div align="center">
-      </div>
+    <td width="50%" align="center" valign="middle">
+      <img src="./img/Baek.jpg" alt="MyKisah" width="300" />
     </td>
-    <td width="45%" align="center" valign="middle">
-      <img src="./img/SongMin.jpg" alt="Pemanis supaya semangat ngoding" width="320" />
+    <td width="50%" align="center" valign="middle">
+      <img src="./img/SongMin.jpg" alt="Pemanis supaya semangat ngoding" width="300" />
     </td>
   </tr>
 </table>
