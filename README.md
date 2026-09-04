@@ -9,8 +9,12 @@
 <p align="center">i'm a frontend dev learning my way into game dev～☾</p>
 
 <p align="center">
-  <strong><a href="https://www.instagram.com/alfnleywinnn_/">Instagram</a></strong> |
-  <strong><a href="https://www.linkedin.com/in/mochammad-alifan-568464355/">LinkedIn</a></strong> |
+  <a href="https://www.instagram.com/alfnleywinnn_/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-alfnleywinnn_-000000?style=for-the-badge&labelColor=E1306C&color=000000" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/mochammad-alifan-568464355/">
+    <img src="https://img.shields.io/badge/LINKEDIN-Mochammad_Alifan-000000?style=for-the-badge&labelColor=0A66C2&color=000000" alt="LinkedIn" />
+  </a>
 </p>
 <table>
   <tr>
