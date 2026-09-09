@@ -3,7 +3,7 @@
   <img src="./img/Banner.png" alt="banner photo" width="100%" />
 </div>
 
-<h1 align="center">yo0, i'm <a href="#">alifanO_x</a>!</h1>
+<h1 align="center">yo, i'm <a href="#">alifanO_x</a>!</h1>
 <h3 align="center">welcome to my profile</h3>
 
 <p align="center">i'm a frontend dev learning my way into game dev～☾</p>
