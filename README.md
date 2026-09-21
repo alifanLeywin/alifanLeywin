@@ -8,10 +8,6 @@
 
 <p align="center">i'm a frontend dev learning my way into game dev～☾</p>
 
-<div align="center">
-  <img src="./img/borderdivider.png" alt="border divider" width="100%" />
-</div>
-
 <p align="center">
   <a href="https://www.instagram.com/alfnleywinnn_/">
     <img src="https://img.shields.io/badge/INSTAGRAM-alfnleywinnn_-000000?style=for-the-badge&labelColor=E1306C&color=000000" alt="Instagram" />
@@ -26,10 +22,6 @@
     <img src="https://img.shields.io/badge/PORTFOLIO-website-000000?style=for-the-badge&labelColor=9F7AEA&color=000000" alt="Portfolio" />
   </a>
 </p>
-
-<div align="center">
-  <img src="./img/borderdivider.png" alt="border divider" width="100%" />
-</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=&weight=600&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&height=60&lines=happy+coding!!!" alt="happy coding!!!" />
