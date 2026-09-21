@@ -25,13 +25,3 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=&weight=600&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&height=60&lines=happy+coding!!!" alt="happy coding!!!" />
 </div>
-<table align="center">
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <img src="./img/Baek.jpg" alt="MyKisah" width="300" />
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="./img/SongMin.jpg" alt="Pemanis supaya semangat ngoding" width="300" />
-    </td>
-  </tr>
-</table>
