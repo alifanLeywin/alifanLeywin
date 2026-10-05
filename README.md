@@ -3,7 +3,7 @@
   <img src="./img/Banner.png" alt="banner photo" width="100%" />
 </div>
 
-<h1 align="center">yo, i'm <a href="#">alifanO_x</a>!</h1>
+<h1 align="center">yo, i'm <a href="https://alifanleywin.vercel.app">alifanO_x</a>!</h1>
 <h3 align="center">welcome to my profile</h3>
 
 <p align="center">i'm a frontend dev learning my way into game dev～☾</p>
@@ -18,7 +18,7 @@
   <a href="mailto:alifanmunggaran16@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-alifanmunggaran16%40gmail.com-000000?style=for-the-badge&labelColor=E8C84A&color=000000" alt="Email" />
   </a>
-  <a href="#">
+  <a href="https://alifanleywin.vercel.app">
     <img src="https://img.shields.io/badge/PORTFOLIO-website-000000?style=for-the-badge&labelColor=9F7AEA&color=000000" alt="Portfolio" />
   </a>
 </p>
